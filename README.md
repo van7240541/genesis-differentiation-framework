@@ -118,17 +118,6 @@ Project-specific mappings belong in implementing projects, not in GDF core.
 
 ---
 
-## Visual assets
-
-| Asset | Role |
-|-------|------|
-| [`docs/VISUAL_CANON.v0.1.md`](docs/VISUAL_CANON.v0.1.md) | **Authoritative** — exact strings for all official visuals |
-| [`assets/gdf-social-banner.png`](assets/gdf-social-banner.png) | **Public sharing** — 1280×640 for GitHub / LinkedIn |
-
-Dense infographic posters are **illustrative only**; if poster text diverges from the visual canon, the canon wins.
-
----
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
